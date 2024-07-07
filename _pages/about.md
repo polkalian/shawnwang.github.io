@@ -17,42 +17,41 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. Suspendisse condimentum, libero vel tempus mattis, risus risus vulputate libero, elementum fermentum mi neque vel nisl. Maecenas facilisis maximus dignissim. Curabitur mattis vulputate dui, tincidunt varius libero luctus eu. Mauris mauris nulla, scelerisque eget massa id, tincidunt congue felis. Sed convallis tempor ipsum rhoncus viverra. Pellentesque nulla orci, accumsan volutpat fringilla vitae, maximus sit amet tortor. Aliquam ultricies odio ut volutpat scelerisque. Donec nisl nisl, porttitor vitae pharetra quis, fringilla sed mi. Fusce pretium dolor ut aliquam consequat. Cras volutpat, tellus accumsan mattis molestie, nisl lacus tempus massa, nec malesuada tortor leo vel quam. Aliquam vel ex consectetur, vehicula leo nec, efficitur eros. Donec convallis non urna quis feugiat.
+I'm a fourth-grade PhD student at the Institute of Artificial Intelligence and Robotics, Xi'an Jiaotong University (西安交通大学人机所), and advised by Professor Yuehu Liu (刘跃虎). I'm also advised by Shuqiang Jiang (蒋树强) and collaborate with Xinhang Song (宋新航) and Sixian Zhang (张思贤) closely at the Institute of Computing Technology, Chinese Academy of Science (中科院计算所). I graduated from the Hsue-Shen Tsien Class, Xi'an Jiaotong University (西安交大钱学森班) with a bachelor's degree.
 
-My research interest includes neural machine translation and computer vision. I have published more than 100 papers at the top international AI conferences with total <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'>google scholar citations <strong><span id='total_cit'>260000+</span></strong></a> (You can also use google scholar badge <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>).
+I'm an intern at PCG QQ, Tencent in Beijing, and engaged in research on multimodal foundation models, which includes LLM tool learning and multimodal content production.
+
+My research interests include AI Agent, Embodied AI, and Large Language Models. I have published 9 papers at the top international AI conferences (including 5 CCF-A papers) and 
+honorably served as a reviewer at multiple top conferences including Neurips, ICLR, TIP, etc.
 
 
 # 🔥 News
-- *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+- *2024.02*: &nbsp;🎉🎉 Three papers accepted by CVPR 2024
+- *2023.09*: &nbsp;🎉🎉 Paper accepted by Neurips 2023
+- *2023.08*: &nbsp;🎉🎉 Paper accepted by ACM Multimedia 2023
 
 # 📝 Publications 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2016</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Neurips 2023</div><img src='images/nips.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-[Deep Residual Learning for Image Recognition](https://openaccess.thecvf.com/content_cvpr_2016/papers/He_Deep_Residual_Learning_CVPR_2016_paper.pdf)
+[CaMP: Causal Multi-policy Planning for Interactive Navigation in Multi-room Scenes](https://proceedings.neurips.cc/paper_files/paper/2023/file/333581887bf483296118a97773cab0c1-Paper-Conference.pdf)
 
-**Kaiming He**, Xiangyu Zhang, Shaoqing Ren, Jian Sun
+**Xiaohan Wang**, Yuehu Liu, Xinhang Song, Beibei Wang, Shuqiang Jiang
 
-[**Project**](https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=DhtAFkwAAAAJ&citation_for_view=DhtAFkwAAAAJ:ALROH1vI_8AC) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
-- Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+[**Project**](https://github.com/polkalian/InterNav)
 </div>
 </div>
 
-- [Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet](https://github.com), A, B, C, **CVPR 2020**
 
 # 🎖 Honors and Awards
-- *2021.10* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2021.09* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+- *2023.10* Xi'an Jiaotong University Special Grade Scholarship
 
 # 📖 Educations
-- *2019.06 - 2022.04 (now)*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2015.09 - 2019.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-
-# 💬 Invited Talks
-- *2021.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2021.03*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  \| [\[video\]](https://github.com/)
+- *2020.09 - 2025.06 (expected)*, PhD, Xi'an Jiaotong University, Xi'an. 
+- *2016.09 - 2020.06*, undergraduate, Xi'an Jiaotong University, Xi'an.
+- *2013.09 - 2016.06*, Wuhan No.2 Middle School, Wuhan. 
 
 # 💻 Internships
-- *2019.05 - 2020.02*, [Lorem](https://github.com/), China.
+- *2024.02 - 2024.07 (now)*, PCG QQ, Tencent, Beijing.
+- *2023.08 - 2024.07*, VIPL, Institute of Computing Technology, Chinese Academy of Science, Beijing.
